@@ -1,0 +1,7 @@
+{
+  "name": "save-form-data",
+  "version": "1.0.0",
+  "main": "dist/save-form-data.js",
+  "description": "Auto save and restore form data",
+  "license": "MIT"
+}
